@@ -76,8 +76,8 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://via.placeholder.com/150" alt="Profile Image" class="profile-image"> <!-- Replace with your image URL -->
-        <div class="caption">Coolsob523 - Cool Effies</div>
+        <img src="IMG_3347.jpg" alt="Profile Image" class="profile-image"> <!-- Replace with your image URL -->
+        <div class="caption">Coolsob523</div>
         
         <h1>About Me</h1>
         <div class="box">
