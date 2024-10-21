@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - coolsob523</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: black; /* Set background to black */
+            margin: 0;
+            padding: 20px;
+            color: white; /* Set text color to white */
+        }
+        h1 {
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.1); /* Lighten the box background for contrast */
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+        .profile-image {
+            display: block;
+            margin: 0 auto 10px auto;
+            border-radius: 50%;
+            width: 150px; /* Adjust the width as needed */
+            height: 150px; /* Adjust the height as needed */
+            object-fit: cover; /* Ensures the image covers the area */
+        }
+        .caption {
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .box {
+            background-color: rgba(255, 255, 255, 0.2); /* Adjust box background for better visibility */
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            transition: background-color 0.3s;
+            color: white; /* Set text color to white for better visibility */
+        }
+        .box:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+        a {
+            color: #1e90ff; /* Set link color to a bright blue */
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #00bfff; /* Lighter blue on hover */
+            text-decoration: underline;
+        }
+        .icon {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://via.placeholder.com/150" alt="Profile Image" class="profile-image"> <!-- Replace with your image URL -->
+        <div class="caption">Coolsob523 - Cool Effies</div>
+        
+        <h1>About Me</h1>
+        <div class="box">
+            <p>I'm a hacker and I hack on Hypixel. I have my own website called V-Games-4 with 1,000 users every day and 500 downloads every day.</p>
+        </div>
+        
+        <div class="box">
+            <h2>YouTube Channels</h2>
+            <a href="https://www.youtube.com/@hckingcentral" target="_blank">
+                <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube">hckingcentral
+            </a><br>
+            <a href="https://www.youtube.com/@coolsobKNG" target="_blank">
+                <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube">coolsobKNG
+            </a>
+        </div>
+
+        <div class="box">
+            <h2>Websites I Made</h2>
+            <ul>
+                <li><a href="https://java-account-gen.pages.dev/home" target="_blank">Java Account Generator</a></li>
+                <li><a href="https://sites.google.com/view/v-games4/home" target="_blank">V-Games4</a></li>
+            </ul>
+        </div>
+
+        <div class="box">
+            <h2>Discord Server</h2>
+            <p>Join my Discord server: <a href="https://discord.gg/DdfBA53rS3" target="_blank">DdfBA53rS3</a></p>
+        </div>
+
+        <div class="box">
+            <h2>Partners</h2>
+            <p>My partners provide me with alts:</p>
+            <ul>
+                <li>Elusion: <a href="https://discord.gg/elusion" target="_blank">Join Elusion Server</a></li>
+                <li>Altifyy: <a href="https://discord.gg/altifyy" target="_blank">Join Altifyy Server</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
